@@ -1,0 +1,3 @@
+VIDEO_PATH = "market.mp4"
+OUTPUT_VIDEO_PATH = "output.mp4"
+CONF_THRESHOLD = 0.6
